@@ -1,0 +1,55 @@
+{
+  "Deal1": [
+    {
+      "name": "Anda and Aamleet \nGhee - 67 gm",
+      "price": [
+        {
+          "range": 100,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Aloo wala paratha\n70% oil) Intense",
+      "price": [
+        {
+          "range": 80,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Gobhi ka paratha\nAnd 1 litr coke",
+      "price": [
+        {
+          "range": 1050,
+          "tax": 9,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Sada biryani spic\nHalf-Full plate",
+      "price": [
+        {
+          "range": 220,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Banu beef Pulao\nwith regular coke",
+      "price": [
+        {
+          "range": 320,
+          "tax": 3,
+          "fee": 2
+
+        }
+      ]
+    }
+  ]
+}

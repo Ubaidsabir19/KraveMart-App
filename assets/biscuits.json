@@ -1,0 +1,57 @@
+{
+  "Deal5": [
+    {
+      "name": "Tuc and Rio Biscuit\nNoodles - 80 gm ",
+      "price": [
+        {
+          "range": 230,
+          "tax": 3,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Superb Excellence(\n90% Cocoa) Intense",
+      "price": [
+        {
+          "range": 200,
+          "tax": 2,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "Full pack Biscuit \nGrowing Up Tuc",
+      "price": [
+        {
+          "range": 2000,
+          "tax": 8,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "Lu Wheatable Pack \nCardamam Biscuits",
+      "price": [
+        {
+          "range": 300,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "TUC Biscuit & Oreo \n Many more others ",
+      "price": [
+        {
+          "range": 670,
+          "tax": 3,
+          "fee": 2
+
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Deal6": [
+    {
+      "name": "Chicken ka Masala \nmasala - 600 gm ",
+      "price": [
+        {
+          "range": 190,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Biryani Masala (\n80% Hard) Intense",
+      "price": [
+        {
+          "range": 230,
+          "tax": 2,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "Palak & Adrak Masala \nGrowing Up Formula",
+      "price": [
+        {
+          "range": 690,
+          "tax": 4,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "Achar & Dhanya Masala\nCardamam Masala",
+      "price": [
+        {
+          "range": 100,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Three massalas and \n Many more others ",
+      "price": [
+        {
+          "range": 780,
+          "tax": 5,
+          "fee": 2
+
+        }
+      ]
+    }
+  ]
+}

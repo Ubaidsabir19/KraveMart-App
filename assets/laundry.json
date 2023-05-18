@@ -1,0 +1,56 @@
+{
+  "Deal7": [
+    {
+      "name": "Two suits & trouser \nAll Clothes washed",
+      "price": [
+        {
+          "range": 260,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Two shirts & trouser(\n50% Dry) Clean",
+      "price": [
+        {
+          "range": 600,
+          "tax": 4,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "One suits & trouser \nTwo full suits",
+      "price": [
+        {
+          "range": 300,
+          "tax": 3,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "Two Bunyan & trouser\nwash and iron ",
+      "price": [
+        {
+          "range": 200,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Four suits & pents \n Many more others ",
+      "price": [
+        {
+          "range": 900,
+          "tax": 8,
+          "fee": 2
+        }
+      ]
+    }
+  ]
+}

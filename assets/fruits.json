@@ -1,0 +1,56 @@
+{
+  "Deal2": [
+    {
+      "name": "One kg Apples (\nApple - 600 gm more",
+      "price": [
+        {
+          "range": 280,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Two kg Fruits (\n70% OFF) Intense",
+      "price": [
+        {
+          "range": 750,
+          "tax": 5,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "Two kg Mangoes \nGrowing Up Formula",
+      "price": [
+        {
+          "range": 1125,
+          "tax": 7,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "One Dozen Banana\nCardamam Biscuits",
+      "price": [
+        {
+          "range": 110,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "One kg Pineapple \nMany more others",
+      "price": [
+        {
+          "range": 370,
+          "tax": 3,
+          "fee": 2
+        }
+      ]
+    }
+  ]
+}

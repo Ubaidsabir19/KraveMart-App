@@ -1,0 +1,56 @@
+{
+  "Deal9": [
+    {
+      "name": "I phone 11 pro max \ndaba and charger",
+      "price": [
+        {
+          "range": 140000,
+          "tax": 100,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "I phone 13 pro max \ndaba and charger",
+      "price": [
+        {
+          "range": 280000,
+          "tax": 120,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "Samsung A51 10/1  \ndaba and charger",
+      "price": [
+        {
+          "range": 39000,
+          "tax": 70,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "vivo y93 mobile 10/ \ndaba and charger",
+      "price": [
+        {
+          "range": 18000,
+          "tax": 40,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Nokia mobile 3310 \ndaba and charger ",
+      "price": [
+        {
+          "range": 50000,
+          "tax": 20,
+          "fee": 2
+        }
+      ]
+    }
+  ]
+}

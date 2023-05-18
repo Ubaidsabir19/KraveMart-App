@@ -1,0 +1,57 @@
+{
+  "Deal8": [
+    {
+      "name": "One kg Dalta Oil \nFull - 100 gram",
+      "price": [
+        {
+          "range": 120,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "One kg Planta Oil(\n20% Hydro) Intense",
+      "price": [
+        {
+          "range": 700,
+          "tax": 5,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "One kg Taalua Oil \n20% extra oil pack",
+      "price": [
+        {
+          "range": 1695,
+          "tax": 10,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "One kgs Dalta ghee \n100% halal food",
+      "price": [
+        {
+          "range": 100,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "TUC Biscuit & \n Many more others ",
+      "price": [
+        {
+          "range": 105,
+          "tax": 2,
+          "fee": 2
+
+        }
+      ]
+    }
+  ]
+}

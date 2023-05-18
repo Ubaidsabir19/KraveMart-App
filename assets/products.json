@@ -1,0 +1,124 @@
+{
+  "Product": [
+    {
+      "name": "Hot deal",
+      "price": [
+        {
+          "range": 300,
+          "tax": 3,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Pay Day Sale",
+      "price": [
+        {
+          "range": 240,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Biscuits",
+      "price": [
+        {
+          "range": 180,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Vegetables",
+      "price": [
+        {
+          "range": 600,
+          "tax": 5,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Nashta",
+      "price": [
+        {
+          "range": 350,
+          "tax": 3,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Masaalay",
+      "price": [
+        {
+          "range": 400,
+          "tax": 3,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Laundry",
+      "price": [
+        {
+          "range": 200,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Oil & ghee",
+      "price": [
+        {
+          "range": 700,
+          "tax": 5,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Mobile",
+      "price": [
+        {
+          "range": 900,
+          "tax": 8,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Milk & Food",
+      "price": [
+        {
+          "range": 290,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Life Styles",
+      "price": [
+        {
+          "range": 480,
+          "tax": 4,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Tea & Coffee",
+      "price": [
+        {
+          "range": 500,
+          "tax": 4,
+          "fee": 2
+        }
+      ]
+    }
+  ]
+}

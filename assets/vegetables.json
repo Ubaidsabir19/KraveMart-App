@@ -1,0 +1,56 @@
+{
+  "Deal3": [
+    {
+      "name": "Three kg Aaloo \nApple - 600 gram",
+      "price": [
+        {
+          "range": 150,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Two kg Gobhee (\n70% OFF) Intense",
+      "price": [
+        {
+          "range": 350,
+          "tax": 3,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "Two kg Bhindi \nGrowing Up Formula",
+      "price": [
+        {
+          "range": 520,
+          "tax": 4,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "One kg Karela \nCardamam Biscuits",
+      "price": [
+        {
+          "range": 135,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "One kg Kaduu \nMany more others",
+      "price": [
+        {
+          "range": 185,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    }
+  ]
+}

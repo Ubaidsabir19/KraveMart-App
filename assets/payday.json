@@ -1,0 +1,57 @@
+{
+  "Deal4": [
+    {
+      "name": "knixx K Chatt Patta \nNoodles - 61 gm",
+      "price": [
+        {
+          "range": 170,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "Cocoa Excellence(\n70% Cocoa) Intense",
+      "price": [
+        {
+          "range": 900,
+          "tax": 5,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "Nestle NANGROW 3\nGrowing Up Formula",
+      "price": [
+        {
+          "range": 1885,
+          "tax": 12,
+          "fee": 2
+
+        }
+      ]
+    },
+    {
+      "name": "Lu Wheatable \nCardamam Biscuits",
+      "price": [
+        {
+          "range": 190,
+          "tax": 2,
+          "fee": 2
+        }
+      ]
+    },
+    {
+      "name": "TUC Biscuit & \n Many more others ",
+      "price": [
+        {
+          "range": 165,
+          "tax": 2,
+          "fee": 2
+
+        }
+      ]
+    }
+  ]
+}
